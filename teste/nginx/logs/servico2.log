@@ -1,0 +1,13 @@
+127.0.0.1 - - [12/Jul/2022:13:52:41 -0300] "GET / HTTP/1.0" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+Remote Addr: 127.0.0.1, Time: [12/Jul/2022:13:58:39 -0300], Request: "GET / HTTP/1.0" Status: 200, Referer: "-" 
+Remote Addr: 127.0.0.1, Time: [12/Jul/2022:14:00:34 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [12/Jul/2022:14:10:39 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [12/Jul/2022:14:11:04 -0300], Request: "GET / HTTP/1.0" Status: 304
+Remote Addr: 127.0.0.1, Time: [12/Jul/2022:14:11:05 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [12/Jul/2022:14:11:11 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [13/Jul/2022:08:39:24 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [13/Jul/2022:08:39:27 -0300], Request: "GET / HTTP/1.0" Status: 304
+Remote Addr: 127.0.0.1, Time: [13/Jul/2022:08:39:28 -0300], Request: "GET / HTTP/1.0" Status: 304
+Remote Addr: 127.0.0.1, Time: [13/Jul/2022:08:39:32 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [13/Jul/2022:09:07:04 -0300], Request: "GET / HTTP/1.0" Status: 200
+Remote Addr: 127.0.0.1, Time: [13/Jul/2022:09:07:06 -0300], Request: "GET / HTTP/1.0" Status: 304
